@@ -1,3 +1,4 @@
+'use strict';
 // require core module 'file system'
 var fs = require('fs');
 
